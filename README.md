@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @BigJeffTheChef
-- 👀 I’m interested in ...
+I'm Big Jeff The Chef
 
-Pursuing a career in software development
+I completed my BSc Genetics in 2009 and worked as a lab tech for over a decade. Wasn't really commited to that career and now
+I have fallen back in love with programming. Currently studying an MSc Software Development.
 
-- 🌱 I’m currently learning ...
+I've fallen in love with programming!
 
-cs50x, and was recently accepted for an MSc Software Development
+I had a little web dev experience from circa 2003, did some HTML, CSS and ASP. Created a fully functioning website with a login system
+using an MS Access database back in the day, and created a website for an Architect's firm.
 
-- 💞️ I’m looking to collaborate on ...
+Looking forward to the future now! I'm trying to learn as much programming as possible!
 
-Anything!
-
-
-Cooking up a few programs
+Dabbling in some MERN stack web dev too.
